@@ -1,0 +1,48 @@
+2026-06-22 09:38:11 INFO Extract Emails - Started - Reading sample_data\emails.txt
+2026-06-22 09:38:11 INFO Extract Emails - Success - Emails Extracted Successfully
+2026-06-22 09:38:19 INFO Organize Files - Started - Scanning sample_data\source_folder
+2026-06-22 09:38:19 INFO Organize Files - Success - Files Organized Successfully
+2026-06-22 09:47:29 INFO Application Started
+2026-06-22 09:47:29 INFO User selected: Organize Files
+2026-06-22 09:47:29 INFO Organize Files - Started - Scanning sample_data\source_folder
+2026-06-22 09:47:29 INFO Organize Files - Success - Files Organized Successfully
+2026-06-22 09:47:29 INFO User selected: Extract Emails
+2026-06-22 09:47:29 INFO Extract Emails - Started - Reading sample_data\emails.txt
+2026-06-22 09:47:29 INFO Extract Emails - Success - Emails Extracted Successfully
+2026-06-22 09:47:29 INFO User selected: View Reports
+2026-06-22 09:47:29 INFO Application Exited
+2026-06-22 09:48:18 INFO Application Started
+2026-06-22 09:48:35 INFO User selected: Organize Files
+2026-06-22 09:49:22 ERROR Organize Files - Failed - Invalid source directory: "C:\Users\dhruv\OneDrive\Desktop\TaskAutomation"
+2026-06-22 09:50:13 INFO User selected: Organize Files
+2026-06-22 09:50:15 ERROR Organize Files - Failed - Invalid source directory: "C:\Users\dhruv\OneDrive\Desktop\TaskAutomation\SmartFileAutomationToolkit\sample_data\source_folder\Images\photo.jpg"
+2026-06-22 09:52:33 INFO User selected: View Reports
+2026-06-22 09:54:27 INFO Application Started
+2026-06-22 09:54:38 INFO User selected: View Reports
+2026-06-22 09:54:45 INFO Application Exited
+2026-06-22 09:55:31 INFO User selected: Organize Files
+2026-06-22 09:56:01 ERROR Organize Files - Failed - Invalid source directory: SmartFileAutomationToolkit\reports\email_report.csv
+2026-06-22 09:57:53 INFO User selected: Organize Files
+2026-06-22 09:57:59 ERROR Organize Files - Failed - Invalid source directory: 2
+2026-06-22 09:58:04 INFO User selected: Organize Files
+2026-06-22 09:58:12 ERROR Organize Files - Failed - Invalid source directory: SmartFileAutomationToolkit\reports
+2026-06-22 10:02:10 INFO User selected: Organize Files
+2026-06-22 10:02:56 ERROR Organize Files - Failed - Invalid source directory: john.doe@example.com,2026-06-22 09:38:11
+2026-06-22 10:03:27 INFO User selected: Organize Files
+2026-06-22 10:03:29 ERROR Organize Files - Failed - Invalid source directory: SmartFileAutomationToolkit\sample_data\emails.txt
+2026-06-22 10:04:32 INFO User selected: Organize Files
+2026-06-22 10:04:42 ERROR Organize Files - Failed - Invalid source directory: emails.txt
+2026-06-22 10:05:00 INFO User selected: Organize Files
+2026-06-22 10:05:04 ERROR Organize Files - Failed - Invalid source directory: sample_data\emails.txt
+2026-06-22 10:06:22 INFO User selected: Organize Files
+2026-06-22 10:06:42 INFO Organize Files - Started - Scanning sample_data\source_folder
+2026-06-22 10:06:42 INFO Organize Files - Success - Files Organized Successfully
+2026-06-22 10:06:55 INFO User selected: Extract Emails
+2026-06-22 10:07:56 ERROR Extract Emails - Failed - File Not Found: SmartFileAutomationToolkit\sample_data\emails.txt
+2026-06-22 10:08:08 INFO User selected: Extract Emails
+2026-06-22 10:08:28 INFO Extract Emails - Started - Reading sample_data\emails.txt
+2026-06-22 10:08:28 INFO Extract Emails - Success - Emails Extracted Successfully
+2026-06-22 10:08:41 INFO User selected: Scrape Website Title
+2026-06-22 10:10:16 INFO Scrape Website Title - Started - Fetching https://www.google.com
+2026-06-22 10:10:18 INFO Scrape Website Title - Success - Website Title Scraped Successfully
+2026-06-22 10:10:34 INFO Application Exited
