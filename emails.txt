@@ -1,0 +1,4 @@
+Hello,
+Please reach out to me at john.doe@example.com or support@horizontechx.com for further details.
+Invalid emails like john.doe@ or @example.com should be ignored.
+Another valid email is contact-us_123@sub.domain.org!
