@@ -64,8 +64,23 @@ SmartFileAutomationToolkit/
    - For **Scraping Website Title**, provide a valid URL (e.g., `https://www.python.org`).
 3. Check the `logs/automation.log` for execution details or choose option `4` in the main menu to view generated CSV reports.
 
-## Screenshots Section
-> *Add screenshots of your terminal running the application, showing the main menu, successful operations, and report outputs.*
+## Screenshots
+
+### 1. Main Menu Dashboard
+![Main Menu Output](ss_main_menu.png)
+
+### 2. Intelligent File Organizer (Option 1)
+![File Organizer Output](ss_organize_files.png)
+
+### 3. Email Extractor (Option 2)
+![Email Extractor Output](ss_extract_emails.png)
+
+### 4. Webpage Scraper (Option 3)
+![Webpage Scraper Output](ss_webpage_scraper.png)
+
+### 5. View Reports (Option 4)
+![View Reports Output](ss_view_reports.png)
+
 
 ## Future Enhancements
 - Add support for organizing more file types (e.g., Videos, Audio, Archives).
@@ -75,4 +90,7 @@ SmartFileAutomationToolkit/
 - Provide email notifications upon task completion.
 
 ## Author Information
-Developed by **[Krushil Lukhi]**
+Developed by **Krushil Lukhi**
+- GitHub: [@krushillukhi](https://github.com/krushillukhi)
+- LinkedIn: [Krushil Lukhi](https://linkedin.com/in/krushillukhi)
+
