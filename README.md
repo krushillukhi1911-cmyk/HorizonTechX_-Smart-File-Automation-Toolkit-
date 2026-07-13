@@ -67,7 +67,8 @@ SmartFileAutomationToolkit/
 ## Screenshots
 
 ### 1. Main Menu Dashboard
-![Main Menu Output](ss_main_menu.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/eb006310-36b6-4428-ae8b-8aac39be698e" />
+
 
 ### 2. Intelligent File Organizer (Option 1)
 ![File Organizer Output](ss_organize_files.png)
@@ -91,6 +92,3 @@ SmartFileAutomationToolkit/
 
 ## Author Information
 Developed by **Krushil Lukhi**
-- GitHub: [@krushillukhi](https://github.com/krushillukhi)
-- LinkedIn: [Krushil Lukhi](https://linkedin.com/in/krushillukhi)
-
