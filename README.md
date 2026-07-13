@@ -75,6 +75,4 @@ SmartFileAutomationToolkit/
 - Provide email notifications upon task completion.
 
 ## Author Information
-Developed by **[Your Name/Alias]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+Developed by **[Krushil Lukhi]**
