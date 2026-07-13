@@ -71,17 +71,17 @@ SmartFileAutomationToolkit/
 
 
 ### 2. Intelligent File Organizer (Option 1)
-![File Organizer Output](ss_organize_files.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/27f64a85-53f6-4c3a-a64c-4896c32c0335" />
 
 ### 3. Email Extractor (Option 2)
-![Email Extractor Output](ss_extract_emails.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a26d6738-e5af-411c-8aca-a306f2317598" />
 
 ### 4. Webpage Scraper (Option 3)
-![Webpage Scraper Output](ss_webpage_scraper.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/073cda0c-fb96-40b1-bba7-04fb56c5aa89" />
 
 ### 5. View Reports (Option 4)
-![View Reports Output](ss_view_reports.png)
-
+**<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b8a6438d-547e-4439-a2f0-f6305ca9afc3" />
+**
 
 ## Future Enhancements
 - Add support for organizing more file types (e.g., Videos, Audio, Archives).
